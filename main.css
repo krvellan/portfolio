@@ -705,7 +705,7 @@ input[type=submit]:hover{
 }
 /*End animations*/
 
-@media screen and (max-width:2000px){
+@media screen and (max-width:1400px){
     .nav-list{
         flex-direction: column;
     }
