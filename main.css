@@ -720,10 +720,6 @@ input[type=submit]:hover{
         font-size: 1.7rem;
     }
 
-    .nav-list{
-        flex-direction: row;
-    }
-
     li{
         margin: 2rem 0;
     }
